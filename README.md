@@ -1,2 +1,3 @@
-# React + Vite
 -- Jorge Sosa
+Gabriel Ferrin
+ 
